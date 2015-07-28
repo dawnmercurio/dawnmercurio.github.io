@@ -1,0 +1,27 @@
+---
+title: Color PrePress
+subtitle: PrePress presentations
+layout: default
+modal-id: 7
+date: 2015-07-25
+img: presentations.png
+thumbnail: presentation-thumbnail.png
+alt: image-alt
+description: Here are the PDF presentations made available after each class.
+
+        <div class="container">
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_1-Planning_prepress_history_SLIDES.pdf" class="page-scroll btn btn-l">Class 1 - Planning and History</a>	
+            </div>
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_2-Paper_SLIDES.pdf" class="page-scroll btn btn-l">Class 2 - Paper</a>	
+            </div>
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_2-Digital_Imaging_SLIDES.pdf" class="page-scroll btn btn-l">Class 2 - Digital Imaging</a>	
+            </div>
+        </div>
+ 
+
+
+
+---
