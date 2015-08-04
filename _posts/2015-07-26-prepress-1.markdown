@@ -1,6 +1,6 @@
 ---
-title: Color PrePress
-subtitle: PrePress presentations
+title: Presentations
+subtitle: 
 layout: default
 modal-id: 7
 date: 2015-07-25
@@ -8,6 +8,7 @@ img: presentations.png
 thumbnail: presentation-thumbnail.png
 alt: image-alt
 description: Here are the PDF presentations made available after each class.
+
 
         <div class="container">
             <div class="intro-text">
@@ -19,9 +20,14 @@ description: Here are the PDF presentations made available after each class.
             <div class="intro-text">
                 <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_2-Digital_Imaging_SLIDES.pdf" class="page-scroll btn btn-l">Class 2 - Digital Imaging</a>	
             </div>
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_3-live_bleed_trim_SLIDES.pdf" class="page-scroll btn btn-l">Class 3 - Live Trim Bleed</a>	
+            </div>
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_4-Color_SLIDES.pdf" class="page-scroll btn btn-l">Class 4 - Color</a>	
+            </div>
         </div>
  
-
 
 
 ---

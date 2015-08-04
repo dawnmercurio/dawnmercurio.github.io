@@ -129,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
     padding: 20px 40px;
     border-color: #ebc8b7;
-    border-radius: 3px;
+    border-radius: 1px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 /*!
- * Attempting to add media query to add a logo to name where the screen is wide enough. see existing media query farther below.
+ * Added logo to media query below where navbar brand exists again
  */
 
 
@@ -251,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 25px 0 0 0px;
         border: 0;
         background-color: transparent;
         -webkit-transition: padding .3s;
@@ -267,7 +267,12 @@ fieldset[disabled] .btn-xl.active {
         transition: all .3s;
 		background: url(img/logos/dm_logo_2015_mark_only.png) left center no-repeat;
 		background-size: 50px 50px;
+		background-position: 0% ;
     }
+	
+	.navbar-brand span {
+	    padding-left: 42px;
+	}
 
     .navbar-default .navbar-nav>.active>a {
         border-radius: 3px;
@@ -363,12 +368,12 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
 .service-heading {
-    margin: 15px 0;
+    margin: 10px 0;
     text-transform: none;
 }
 
@@ -463,12 +468,12 @@ section#contact .section-heading {
 }
 
 section#contact .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 section#contact .form-group input,
 section#contact .form-group textarea {
-    padding: 20px;
+    padding: 10px;
 }
 
 section#contact .form-group input.form-control {
@@ -641,27 +646,6 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
-::-moz-selection {
-    text-shadow: none;
-    background: #ebc8b7;
-}
-
-::selection {
-    text-shadow: none;
-    background: #ebc8b7;
-}
-
-img::selection {
-    background: 0 0;
-}
-
-img::-moz-selection {
-    background: 0 0;
-}
-
-body {
-    webkit-tap-highlight-color: #ebc8b7;
-}
 
 /*!
  * starts new css for the prepress section
@@ -719,16 +703,41 @@ fieldset[disabled] .btn-l.active {
     background-color: #fff;
 }
 
-prepress ul.links {
-    margin-bottom: 0;
-    text-transform: lowercase;
-    text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-weight: 400;
-    line-height: 40px;
+#portfolio ul {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
 }
-
 
 /*!
  * starts new css for the prepress section
  */
+
+
+
+
+
+
+::-moz-selection {
+    text-shadow: none;
+    background: #ebc8b7;
+}
+
+::selection {
+    text-shadow: none;
+    background: #ebc8b7;
+}
+
+img::selection {
+    background: 0 0;
+}
+
+img::-moz-selection {
+    background: 0 0;
+}
+
+body {
+    webkit-tap-highlight-color: #ebc8b7;
+}
+

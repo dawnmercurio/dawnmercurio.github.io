@@ -1,0 +1,12 @@
+---
+title: Projects
+subtitle: 
+layout: default
+modal-id: 1
+date: 2015-07-14
+img: portfolio_grid_projects.png
+thumbnail: portfolio_grid_projects_thumbnail.png
+alt: image-alt
+description: These are the 3 main projects for the quarter.
+
+---
