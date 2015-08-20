@@ -26,6 +26,9 @@ description: Here are the PDF presentations made available after each class.
             <div class="intro-text">
                 <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_4-Color_SLIDES.pdf" class="page-scroll btn btn-l">Class 4 - Color</a>	
             </div>
+            <div class="intro-text">
+                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_6-SpecSheets_SLIDES.pdf" class="page-scroll btn btn-l">Class 6 - Spec Sheets</a>	
+            </div>
         </div>
  
 
