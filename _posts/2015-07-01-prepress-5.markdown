@@ -2,7 +2,7 @@
 title: Demos
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2015-07-01
 img: portfolio_grid_demos.png
 thumbnail: portfolio_grid_demos_thumbnail.png

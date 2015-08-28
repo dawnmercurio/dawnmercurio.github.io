@@ -2,7 +2,7 @@
 title: Course Brief
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2015-06-20
 img: portfolio_grid_coursebrief.png
 thumbnail: portfolio_grid_coursebrief_thumbnail.png

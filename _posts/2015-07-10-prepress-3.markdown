@@ -2,12 +2,16 @@
 title: Resources
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2015-07-10
-img: portfolio_grid_resources.png
 thumbnail: portfolio_grid_resources_thumbnail.png
-alt: image-alt
-description: Here are links to resources for topics we cover in class.
 
-<a href="http://www.prepressure.com/">Prepressure </a> is the premiere online resource for Printing and Prepress news and  
+description: Links to resources for topics we cover in class. 
+
+        <div id="prepress">
+                <a href="http://www.prepressure.com"> Prepressure</a>
+        </div>
+
+
+
 ---

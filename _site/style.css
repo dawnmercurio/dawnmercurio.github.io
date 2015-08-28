@@ -595,7 +595,7 @@ ul.social-buttons li a:active {
 }
 
 /* portfolio grid item description second line*/
-.portfolio-modal .modal-content p.item-intro {
+.portfolio-modal .modal-content p {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
@@ -648,7 +648,7 @@ ul.social-buttons li a:active {
 
 
 /*!
- * starts new css for the prepress section
+ * starts some new css for the prepress section
  */
 
 .btn-l {
@@ -711,13 +711,18 @@ fieldset[disabled] .btn-l.active {
 }
 
 /*!
- * starts new css for the prepress section
+ * create a prepress class for the prepress section
  */
 
+#prepress a {
+	font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    color: #666;
+}
 
-
-
-
+	/*!
+	 * ends new prepress class for the prepress section
+	 */
 
 ::-moz-selection {
     text-shadow: none;

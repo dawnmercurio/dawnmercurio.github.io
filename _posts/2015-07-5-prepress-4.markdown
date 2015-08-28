@@ -2,7 +2,7 @@
 title: Downloads
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2015-07-5
 img: portfolio_grid_downloads.png
 thumbnail: portfolio_grid_downloads_thumbnail.png

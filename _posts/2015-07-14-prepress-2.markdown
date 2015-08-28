@@ -2,7 +2,7 @@
 title: Projects
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2015-07-14
 img: portfolio_grid_projects.png
 thumbnail: portfolio_grid_projects_thumbnail.png
