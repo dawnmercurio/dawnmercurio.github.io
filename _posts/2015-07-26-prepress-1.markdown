@@ -7,31 +7,6 @@ date: 2015-07-25
 img: presentations.png
 thumbnail: presentation-thumbnail.png
 alt: image-alt
-description: Here are the PDF presentations made available after each class.
-
-
-        <div id="prepress">
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_1-Planning_prepress_history_SLIDES.pdf" > Class 1 - Planning and History</a>	<br>
-            <br>
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_2-Paper_SLIDES.pdf" >Class 2 - Paper</a>
-           
-            <br>
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_2-Digital_Imaging_SLIDES.pdf" >Class 2 - Digital Imaging</a>	<br>
-          
-          <br>
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_3-live_bleed_trim_SLIDES.pdf" >Class 3 - Live Trim Bleed</a>	<br>
-        
-          <br>
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_4-Color_SLIDES.pdf" >Class 4 - Color</a>	<br>
-          
-          <br>
-                <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Class_6-SpecSheets_SLIDES.pdf">Class 6 - Spec Sheets</a>	<br>
-				
-		  <br>	
-				
-            <a href="https://dl.dropboxusercontent.com/u/55824/prepress/Prepress-Binding_Finishing.pdf">Class 6 - Folding, Binding, Finishing</a>	<br>
-        </div>
- 
-
+description: click <a href="https://dl.dropboxusercontent.com/u/55824/prepress/prepress_slides.zip">here</a> to download all of the presentations. 
 
 ---
